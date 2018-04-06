@@ -1,1 +1,1 @@
-# veterinary-image-datasets
+# Veterinary-image-datasets

@@ -15,4 +15,3 @@ This is list of open source veterinary image datasets from which the whole veter
 | Name | Description |
 | :--: |:-----------:|
 | [Feline reticulocytes](https://www.kaggle.com/tentotheminus9/feline-reticulocytes) | This dataset contains 1086 images and labels of feline reticulocytes. This data was used as the basis of the following paper - [Using Convolutional Neural Networks for Determining Reticulocyte Percentage in Cats](https://arxiv.org/abs/1803.04873). |
-| [Loggerhead sea turtle reticulocytes](https://www.kaggle.com/kvinicki/caretta-caretta-loggerhead-reticulocytes) | This dataset contains images and labels of Loggerhead sea turtle (Caretta caretta) reticulocytes |

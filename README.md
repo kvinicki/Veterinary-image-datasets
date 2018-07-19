@@ -14,5 +14,6 @@ This is a list of open source veterinary image datasets from which the whole vet
 
 | Name | Description |
 | :--: |:-----------:|
-| [Feline reticulocytes](https://www.kaggle.com/tentotheminus9/feline-reticulocytes) | This dataset contains 1086 images and labels of feline reticulocytes. This data was used as the basis of the following paper - [Using Convolutional Neural Networks for Determining Reticulocyte Percentage in Cats](https://arxiv.org/abs/1803.04873). |
+| [Feline reticulocytes](https://www.kaggle.com/tentotheminus9/feline-reticulocytes) | This dataset contains 1086 images and labels of feline reticulocytes. This data was used as the basis of the following paper - [Using Convolutional Neural Networks for Determining Reticulocyte Percentage in Cats](https://arxiv.org/abs/1803.04873) |
 | [Ixodidae ticks](https://www.kaggle.com/fmartinkovic/ixodidae) | This dataset contains images of ticks from six genera |
+| [Canine Coccidiosis](https://www.kaggle.com/kvinicki/canine-coccidiosis) | This dataset contains images and labels of Isospora canis and Isospora sp. oocysts, a coccidian parasites that infect intestinal tract in dogs |
